@@ -1,4 +1,4 @@
-# GHFinder
+# GHFind
 An efficient script to find the real name or email of any GitHub user.
 
 **Usage**<br/>
